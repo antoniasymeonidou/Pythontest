@@ -1,6 +1,6 @@
 # Simple Flask To-Do App
 
-A minimal Flask web app that allows users to add and delete tasks. No external APIs or databases — everything runs in memory.
+A minimal Flask web app that allows users to add and delete tasks. 
 
 ## 🚀 Features
 
